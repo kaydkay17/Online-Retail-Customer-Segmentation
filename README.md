@@ -1,7 +1,7 @@
 # Customer-Segmentation
 
 ## Problem Statement:
-In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+In this project, your task is to identify major customer segments on a transnational data set which contains the last year's transactions occurred in a UK-based online  retail store. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 ## Attribute Information:
 * InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
