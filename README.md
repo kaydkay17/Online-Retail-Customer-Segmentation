@@ -19,5 +19,4 @@ In this project, our task was to identify major customer segments on a transnati
 
 After basic exploration and cleaning the data we found relationships between features in EDA and then jumped into the analysis part. Cohort analysis helped us understand the customer retention rate and revenue retention rate for the company. Then based on the given features like unit price, quantity, purchase date, etc. we extracted RFM values, RFM scores for store customers. 
 
-After transforming and scaling the features we developed a clustering model using K-means to find major customer segments. In order to achieve the optimal number of clusters we used the elbow criterion, Silhouette score and also implemented Agglomerative clustering with the help of Dendrogram.
-Based on the results and the store’s requirements we successfully segmented customers into 3 clusters according to their shared characteristics.
+After transforming and scaling the features we developed a clustering model using K-means to find major customer segments. In order to achieve the optimal number of clusters we used the elbow criterion, Silhouette score and also implemented Agglomerative clustering with the help of Dendrogram. Based on the results and the store’s requirements we successfully segmented customers into 3 clusters according to their shared characteristics.
